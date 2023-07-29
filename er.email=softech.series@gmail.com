@@ -19,6 +19,6 @@ core.bare=false
 core.logallrefupdates=true
 core.symlinks=false
 core.ignorecase=true
-remote.origin.url=https://github.com/ibnusetiawan22/website-ibnusetiawan.git
+remote add origin https://github.com/ibnusetiawan22/website-ibnusetiawan1718.git
 remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
 user.name=softech.series
